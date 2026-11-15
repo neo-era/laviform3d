@@ -8,6 +8,6 @@ Thiết kế 3D cho in 3D ngay trên trình duyệt (Chrome/Edge trên máy tín
 - Ctrl+Shift+S (Lưu thành…) lưu tệp `.lvf` ra máy để giữ lâu dài hoặc chuyển sang máy khác.
 - Mở/nhập STL, 3MF, OBJ, STEP; xuất STL, 3MF, STEP, OBJ.
 
-Đây là bản dựng sẵn (thư mục `dist-web`) của LaviForm 3D 0.4.0. Bản Windows có bộ cài riêng.
+Đây là bản dựng sẵn (thư mục `dist-web`) của LaviForm 3D 0.5.0. Bản Windows có bộ cài riêng.
 
 Thư viện bên thứ ba: lõi hình học OpenCascade (`lgpl/occt`) và bộ giải ràng buộc planegcs (`lgpl/planegcs`) theo giấy phép LGPL — xem `THIRD-PARTY-NOTICES.txt`.

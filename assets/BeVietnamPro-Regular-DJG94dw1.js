@@ -1,0 +1,1 @@
+var e=new URL(`BeVietnamPro-Regular-D77_wdhb.ttf`,import.meta.url).href;export{e as default};

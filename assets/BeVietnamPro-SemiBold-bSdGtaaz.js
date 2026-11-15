@@ -1,0 +1,1 @@
+var e=new URL(`BeVietnamPro-SemiBold-mz5lGTJK.ttf`,import.meta.url).href;export{e as default};
