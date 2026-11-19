@@ -1,7 +1,6 @@
 LaviForm 3D — THÔNG BÁO PHẦN MỀM BÊN THỨ BA / THIRD-PARTY NOTICES
 ====================================================================
-LaviForm 3D © 2026 Công ty TNHH Kỹ Nghệ Lâm Việt Phát (LAVIPCO). Phím tắt quen thuộc như Shapr3D —
-LaviForm 3D không liên kết với, không được tài trợ hay xác nhận bởi Shapr3D Zrt. "Shapr3D" là nhãn hiệu của chủ sở hữu.
+LaviForm 3D © 2026 Công ty TNHH Kỹ Nghệ Lâm Việt Phát (LAVIPCO).
 
 LaviForm 3D sử dụng các thành phần mã nguồn mở sau:
 
